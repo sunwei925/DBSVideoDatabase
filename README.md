@@ -13,7 +13,7 @@ Link: https://drive.google.com/open?id=1VDdEsNS6akq5DC_BZdCXTFDuJyBaqrUq
 ```
 
 ## Citation
-**If you use DBSVideoDatabase in your research, please cite the conference paper of this study (Note: The journal version of this study has been submitted to IEEE Transactions on Mobile Computing):**
+**If you use DBSVideoDatabase in your research, please cite the following paper:**
 ```
 @inproceedings{sun2017dynamic,
   title={Dynamic backlight scaling considering ambient luminance for mobile energy saving},
