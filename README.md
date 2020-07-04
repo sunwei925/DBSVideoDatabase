@@ -13,7 +13,7 @@ Link: https://drive.google.com/open?id=1VDdEsNS6akq5DC_BZdCXTFDuJyBaqrUq
 ```
 
 ## Citation
-**If you use DBSVideoDatabase in your research, please cite the following paper:**
+**If you use DBSVideoDatabase in your research, please cite the following papers:**
 ```
 @inproceedings{sun2017dynamic,
   title={Dynamic backlight scaling considering ambient luminance for mobile energy saving},
