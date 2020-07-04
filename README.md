@@ -23,9 +23,7 @@ Link: https://drive.google.com/open?id=1VDdEsNS6akq5DC_BZdCXTFDuJyBaqrUq
   year={2017},
   organization={IEEE}
 }
-```
 
-```
 @article{sun2020dynamic,
   title={Dynamic Backlight Scaling Considering Ambient Luminance for Mobile Videos on LCD Displays},
   author={Sun, Wei and Min, Xiongkuo and Zhai, Guangtao and Gu, Ke and Ma, Siwei and Yang, Xiaokang},
